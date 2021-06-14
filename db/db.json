@@ -1,0 +1,53 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Liu Bei",
+      "image": "https://alchetron.com/cdn/liu-bei-532b0f6c-2a7b-46d9-ac09-b192069828f-resize-750.jpeg",
+      "title": "Emperor Of SHU Kingdom",
+      "likes": 0 
+    },
+    {
+      "id": 2,
+      "name": "Cao Cao",
+      "image": "https://th.bing.com/th/id/R9d6566a178d52ee7e7d73a2ae60b770d?rik=cKSXUOoQPieWFQ&pid=ImgRaw",
+      "title": "Emperor Of WEI Kingdom",
+      "likes": 0 
+    },
+    {
+      "id": 3,
+      "name": "Sun Jian",
+      "image": "https://th.bing.com/th/id/Ra21057dc3b59956ba11c5170fab24967?rik=1WrpufrL4n0FwA&riu=http%3a%2f%2fwww.creativeuncut.com%2fgallery-29%2fart%2fdw8e-sun-jian.jpg&ehk=qnHXs3%2bTtv8J8T8stXFlVmzP%2b2n3GjgaIUQSW%2fKa5ms%3d&risl=&pid=ImgRaw",
+      "title": "Emperor Of WU Kingdom",
+      "likes": 0
+    },
+    {
+      "id": 4,
+      "name": "Zhuge Liang",
+      "image": "https://i.pinimg.com/originals/a3/d0/66/a3d066141250bf23ae7b76ff928bbcec.jpg",
+      "title": "First Prime Minister Of SHU Kingdom",
+      "likes": 0 
+    },
+    {
+      "id": 5,
+      "name": "Sima Yi",
+      "image": "https://th.bing.com/th/id/R113ed8e2ef4235a31ef469e88de7623c?rik=sxkC4wKXIQ6mpQ&riu=http%3a%2f%2fwww.capsulecomputers.com.au%2fwp-content%2fuploads%2f2013%2f04%2fdynasty-warriors-8-sima-yi-01.jpg&ehk=%2bd1L0XvuplRtrCk1odp2LGBEulzRs%2flIu5QiDbdCRRs%3d&risl=&pid=ImgRaw",
+      "title": "First Prime Minister of WEI Kingdom",
+      "likes": 0
+    },
+    {
+      "id": 6,
+      "name": "Lu Xun",
+      "image": "https://static.trueachievements.com/customimages/069291.jpg",
+      "title": "First Prime Minister of WU Kingdom",
+      "likes": 0 
+    },
+    {
+      "id": 7,
+      "name": "Lu Bu",
+      "image": "https://static.trueachievements.com/customimages/069289.jpg",
+      "title": "The Mightiest Warrior of the three kingdoms era",
+      "likes": 0 
+    }
+  ]
+}
